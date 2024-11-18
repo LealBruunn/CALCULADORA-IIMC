@@ -5,5 +5,5 @@ Para fazer esse projeto eu usei html, css e javaScript para dar vida.
 <br>
 Projeto para o trabalho da aula de JavaScript do curso de Sistema de Informação da Estácio!!
 <br>
-Acompanhe o trabalho clicando na a URL:       
+Acompanhe o trabalho clicando na a URL: https://calculadora-imc-lealbrunn.netlify.app/      
 
